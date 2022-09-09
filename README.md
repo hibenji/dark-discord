@@ -10,7 +10,7 @@
 
 <h3 align='center'>Dark Discord</h3>
 
-<p align='center'>An actual dark mode for discord.</p>
+<p align='center'>An actual dark mode for discord. (Desktop Version)</p>
 
 
 ---
